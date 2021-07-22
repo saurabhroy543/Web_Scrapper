@@ -33,7 +33,7 @@ def send_mail():
     server.starttls()
     server.ehlo()
 
-    server.login('saurabhr543@gmail.com','slhlobpcjlrnggac')
+    server.login('saurabhr543@gmail.com','#password of sender account#')
 
     subject = 'price fell down'
 
